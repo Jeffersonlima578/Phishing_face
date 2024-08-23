@@ -1,6 +1,7 @@
 # Phishing_face
 Phishing para capturar senhas
 
+
   
 Ferramentas Utilizadas
   
@@ -10,7 +11,9 @@ Ferramentas Utilizadas
 
 
 
+
 Configurando o Phishing no Kali Linux
+
 
 
   .Acesso root: ( sudo su ).
@@ -28,6 +31,9 @@ Configurando o Phishing no Kali Linux
   . Obtendo o endereço da máquina: ( ifconfig ).
   
   . URL para clone: ( http://www.facebook.com ).
+
+
+
 
 
  
