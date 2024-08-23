@@ -9,7 +9,9 @@ Ferramentas Utilizadas
  . Setoolkit
 
 
+
 Configurando o Phishing no Kali Linux
+
 
   .Acesso root: ( sudo su ).
   
